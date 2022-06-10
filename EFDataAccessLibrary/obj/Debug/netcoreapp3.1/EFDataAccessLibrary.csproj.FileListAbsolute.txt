@@ -1,0 +1,10 @@
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.deps.json
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.dll
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.pdb
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.csproj.AssemblyReference.cache
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.AssemblyInfoInputs.cache
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.AssemblyInfo.cs
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.dll
+F:\CV MINE\C# practice for biginners\Asp .Net Core 5 Practice with U tube video\EFDemoApp\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.pdb

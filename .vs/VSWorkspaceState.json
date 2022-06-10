@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EF-Best-Practices-Video-Tutorial",
+    "\\EFDataAccessLibrary",
+    "\\EFDataAccessLibrary\\Migrations",
+    "\\EFDataAccessLibrary\\Models",
+    "\\EFDemoWeb"
+  ],
+  "SelectedNode": "\\EFDataAccessLibrary\\Models\\Person.cs",
+  "PreviewInSolutionExplorer": false
+}
